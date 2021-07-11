@@ -1,6 +1,8 @@
 # navigator_2_example
 
-A new Flutter project.
+Project is based on tutorial:
+
+https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade
 
 ## Getting Started
 
